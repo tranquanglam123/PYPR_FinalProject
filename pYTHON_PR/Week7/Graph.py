@@ -1,0 +1,10 @@
+x_unit_length=10
+y_unit_length=1000
+x_cordinate_A=70
+y_cordinate_B=5000
+C_cordinates=[50,9000]
+print(x_unit_length)
+print(y_unit_length)
+print(x_cordinate_A)
+print(y_cordinate_B)
+print(C_cordinates)
